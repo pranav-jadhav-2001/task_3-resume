@@ -1,0 +1,234 @@
+.topc{
+ text-align: center;
+ margin-bottom: 0;
+}
+
+.imgc1{
+  margin-left: 400px;
+}
+.imgc2{
+margin-right: 300px;
+}
+.name{
+  font-family: 'Sacramento', cursive;
+  font-size: 50px;
+  font-weight: bold;
+  margin-top: 30px;
+}
+.body{
+  margin:0;
+  background: linear-gradient(to bottom , #409999 ,#47abab, #54b7b7, #66bfbf, #78c7c7);
+  align:center;
+  }
+
+.sub{
+ font-style: italic;
+ font-size: 25px;
+ margin-left: 100px;
+ font-weight: bold;
+
+}
+.cont1{
+  text-align: center;
+  font-family: 'Archivo Black', sans-serif;
+  margin-bottom:0;
+  line-height: 2;
+}
+.am{
+  margin: 0;
+  height: 60px;
+  font-size: 30px;
+  color:#284c4c;
+}
+.abt{
+  position: relative;
+  top: 40px;
+}
+.me{
+  width: 600px;
+  margin:0 auto;
+  font-style: italic;
+  margin-top: 20px;
+
+}
+.fv{
+  font-size: 80px;
+text-align: center;
+  margin:0;
+  color:#142626;
+}
+.mfs{
+  margin:0;
+}
+.par{
+  margin:0;
+
+
+}
+.hr{
+  border-bottom-style: dotted;
+  border-bottom-width: thick;
+  width: 15%;
+  border-color: #000080;
+}
+.Prof{
+  border-radius: 100%;
+    float: left;
+    margin-left: 100px;
+}
+.hemf{
+  font-size: 43px;
+  font-family: 'Hammersmith One', sans-serif;
+  margin-bottom: 30px;
+  color:#1e3939;
+}
+.list1{
+  font-family: 'Archivo Narrow', sans-serif;
+  margin-left: 100px;
+  font-size: 24px;
+  display: inline-block;
+  color: #284c4c;
+  font-weight: bold;
+  }
+.list2{
+
+  font-family: 'Archivo Narrow', sans-serif;
+    font-size: 24px;
+    display: inline-block;
+    position: absolute;
+    right: 200px;
+    color: #284c4c;
+    font-weight: bold;
+
+}
+.sampp{
+  width: 300px;
+  height: 300px;
+  display:inline-block;
+  border-radius: 26%;
+  margin-left: 100px;
+}
+.sampp1{
+  width: 300px;
+  height: 300px;
+    border-radius: 26%;
+    display: inline-block;
+    margin-left: 100px;
+    margin-top: 70px;
+}
+.list3{
+  font-family: 'Archivo Narrow', sans-serif;
+  margin-left: 100px;
+  font-size: 24px;
+  display: inline-block;
+  color: #284c4c;
+  font-weight: bold;
+}
+.sampp2{
+  width: 300px;
+  height: 300px;
+    border-radius: 26%;
+    display:inline-block;
+    border-radius: 26%;
+    margin-left: 200px;
+}
+.list4{
+  font-family: 'Archivo Narrow', sans-serif;
+  margin-left: 100px;
+  font-size: 24px;
+  display: inline-block;
+  position: absolute;
+  right: 240px;
+  color: #284c4c;
+  font-weight: bold;
+}
+.sampp3{
+  width: 400px;
+  height: 300px;
+    border-radius: 26%;
+    display:inline-block;
+    border-radius: 26%;
+    margin-left: 100px;
+    margin-top: 70px;
+}
+.lastbotc{
+  font-family: 'Baloo Tammudu 2', cursive;
+  line-height: 1;
+  font-size: 27px;
+  width: 640px;
+  margin:0 auto;
+  color:#1e3939;
+  display: inline-block;
+}
+.attach{
+  margin-left: 150px;
+  padding: 10px;
+}
+.icone {
+  width: 120px;
+  height: 120px;
+  margin-left: 180px;
+}
+.icone1{
+  width: 120px;
+  height: 120px;
+  position: relative;
+  left: 940px;
+  bottom: 160px;
+}
+.enri{
+  font-weight: bolder;
+}
+.hypr{
+  text-decoration: none;
+  color: #284c4c;
+  font-weight: bold;
+  font-size: 23px;
+  position: relative;
+  left: 50px;
+}
+.bottomcont{
+  background: linear-gradient(to bottom right,#c1e5e5,#d1ebeb,#e0f2f2,#eff8f8,#ffffff);
+  margin: 0;
+  height: 50px;
+}
+.par1{
+  margin:0;
+}
+.last1{
+  margin-left: 326px;
+  font-size: 23px;
+  font-family: 'Hammersmith One', sans-serif;
+}
+.last2{
+  margin-left: 200px;
+  font-size: 23px;
+  font-family: 'Hammersmith One', sans-serif;
+}
+.part{
+  width: 170px;
+  height: 90px;
+}
+.par1{
+  margin-left: 480px;
+  margin-top: 70px;
+  font-size: 20px;
+  margin-bottom: 20px;
+}
+a{
+  text-decoration: none;
+}
+ a:hover{
+  background-color: green;
+}
+i{
+  font-size: 16px;
+}
+.photo{
+  width: 110px;
+  height: 110px;
+}
+.iris{
+  width:200px;
+  height: 200px;
+}
